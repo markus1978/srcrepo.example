@@ -9,7 +9,7 @@ import java.util.ArrayList;
 public class HelloWorld {
 	
 	/**
-	 * This is a innter class doc.
+	 * This is a innter class doc. - with minor change.
 	 */
 	private abstract class InnerClass<E> extends ArrayList<E> implements Serializable {
 		
