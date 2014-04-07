@@ -1,8 +1,8 @@
 package de.hub.references;
 
-import de.hub.example.java.Referenced;
+import de.hub.example.java.ReferencedRenamed;
 
-public class References extends Referenced {
+public class References extends ReferencedRenamed {
 
 	@Override
 	public void run() {
